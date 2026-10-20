@@ -6,6 +6,7 @@ public class Activity1_Francisco {
         String firstName = "Neil Jay ";
         String lastName = "Francisco ";
         String opening = "---------Activity 01-----------";
+
         boolean working = true;
         byte age = 25;
         short yearBorn = 2001;
