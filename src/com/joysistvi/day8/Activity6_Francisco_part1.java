@@ -1,4 +1,4 @@
-package com.joysistvi.day8.loop;
+package com.joysistvi.day8;
 
 import java.util.Scanner;
 
