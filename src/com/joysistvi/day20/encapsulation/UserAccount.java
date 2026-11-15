@@ -47,6 +47,7 @@ public class UserAccount {
             }
         }
 
+        @Override
         public String toString() {
             return "--- Welcome to Facebook ---\n" +
                     "Full Name: " + firstName + " " + middleName + " " + lastName + "\n" +
