@@ -1,4 +1,4 @@
-package com.joysistvi.enums;
+package com.joysistvi.day25.enums;
 
 public class Main {
     public enum Day {
